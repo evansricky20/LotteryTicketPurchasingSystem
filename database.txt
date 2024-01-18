@@ -1,0 +1,7 @@
+ricky@email.com,Ricky1234,123 Street Ln,Ricky,1234567890
+john@email.com,John123,123 lane,john,1234567890
+sam@email.com,sam123,123 road,sam,8177573729
+max@email.com,Max123,123 lane,Max,1111111111
+ericchiu@ttu.edu,Eric123,100 Main St,eric,911
+brad@email.com,Brad123,123 road,brad,1234567890
+richard@email.com,richard123,123 Street,Richard,1234567890

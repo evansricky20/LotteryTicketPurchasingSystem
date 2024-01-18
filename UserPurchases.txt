@@ -1,0 +1,14 @@
+john@email.com,Lotto Texas,$1,876348,16,33,46,17,24
+john@email.com,Lotto Texas,$1,875122,20,47,9,11,22
+john@email.com,Mega Millions,$2,746051,9,22,8,10,32
+john@email.com,Mega Millions,$2,214550,5,9,18,26,22
+ricky@email.com,Lotto Texas,$1,442349,34,38,7,16,14
+ricky@email.com,Lotto Texas,$1,324010,6,35,42,50,4
+ricky@email.com,Mega Millions,$2,140485,13,30,16,14,28
+ricky@email.com,Mega Millions,$2,613143,5,10,18,26,22
+ricky@email.com,Power Ball,$2,891077,31,12,16,20,15
+ericchiu@ttu.edu,Power Ball,$2,678222,1,2,3,4,5
+richard@email.com,Lotto Texas,$1,988225,1,2,3,4,5
+richard@email.com,Lotto Texas,$1,348618,21,1,8,5,43
+ricky@email.com,New Ticket,$5,343388,14,13,25,45,3
+ricky@email.com,New Ticket,$5,820556,1,2,3,4,5
